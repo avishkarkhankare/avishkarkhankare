@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Avishkar Khankare</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate about full stack developer from India</h3>
 
-- 🌱 I’m currently learning **& various Programming languages.**
+- 🌱 I’m currently learning & various Programming languages.
 
-- 👯 I’m looking to collaborate on **live project**
+- 👯 I’m looking to collaborate on live project
 
-- 💬 Ask me about **react,nodejs,express.js**
+- 💬 Ask me about react,nodejs,express.js
 
-- 📫 How to reach me **khankareavishkar8@gmail.com**
+- 📫 How to reach me khankareavishkar8@gmail.com
 
-- ⚡ Fun fact **I love 🎵 music and 📚 books. I'm a ☕ tea enthusiast.**
+- ⚡ Fun fact I love 🎵 music and 📚 books. I'm a ☕ tea enthusiast.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
